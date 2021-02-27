@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/My Documents/CPE 593/matching_engine/main.cpp
+iostream
+-
+order_book.h
+E:/My Documents/CPE 593/matching_engine/order_book.h
+ctime
+-
+chrono
+-
+thread
+-
+matching_engine.h
+E:/My Documents/CPE 593/matching_engine/matching_engine.h
+
+E:/My Documents/CPE 593/matching_engine/matching_engine.h
+trade_list.h
+E:/My Documents/CPE 593/matching_engine/trade_list.h
+tuple
+-
+
+E:/My Documents/CPE 593/matching_engine/order.h
+ctime
+-
+
+E:/My Documents/CPE 593/matching_engine/order_book.h
+order.h
+E:/My Documents/CPE 593/matching_engine/order.h
+iostream
+-
+
+E:/My Documents/CPE 593/matching_engine/trade_list.h
+order.h
+E:/My Documents/CPE 593/matching_engine/order.h
+iostream
+-
+
